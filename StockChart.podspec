@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "StockChart"
   s.version      = "0.0.1"
-  s.summary      = "A custom stock chart."
+  s.summary      = "An iOS stock chart library in Objective-C"
 
   s.description  = <<-DESC
                    It is a custom keyboard for stock app used on IOS,whick implement by objective-c..
