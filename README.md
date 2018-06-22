@@ -31,7 +31,7 @@ pod 'StockChart', '~> 0.0.1'
 ├── README.md           //readme
 └── StockChart.podspec  //Cocoapods spec
 ```
-##Screenshot1
+# Screenshot1
 ![(Screenshot)](https://github.com/YongbaoWang/StockChart/blob/master/Demo/FenShiChart/screenshot%402x.png)
 
 #微信公众号 ：iOS狗
