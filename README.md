@@ -15,6 +15,22 @@ An iOS stock chart library in Objective-C based on chartee. For more information
 
 pod 'StockChart', '~> 0.0.1'
 
+# Carthage
+
+1. Add StockChart to your Cartfile. e.g., `github "Yongbaowang/StockChart" ~> 0.0.2`
+2. Run `carthage update`
+3. Follow the rest of the [standard Carthage installation instructions](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application) to add EverChart to your project.
+
+# Tree
+```
+.
+├── Classes             //source code
+├── Demo                //Demo with source code
+├── EverChart           //Carthage framework
+├── LICENSE             //License
+├── README.md           //readme
+└── StockChart.podspec  //Cocoapods spec
+```
 ##Screenshot1
 ![(Screenshot)](https://github.com/YongbaoWang/StockChart/blob/master/Demo/FenShiChart/screenshot%402x.png)
 
