@@ -34,6 +34,6 @@ pod 'StockChart', '~> 0.0.1'
 # Screenshot1
 ![(Screenshot)](https://github.com/YongbaoWang/StockChart/blob/master/Demo/FenShiChart/screenshot%402x.png)
 
-# 微信公众号 ：iOS狗
+# 微信公众号 ：汪汪的世界
 ![(WeChat)](https://github.com/YongbaoWang/EverShowPath/blob/master/EverShowPath/wechat_num.jpg)
 
